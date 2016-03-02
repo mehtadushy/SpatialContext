@@ -1,6 +1,8 @@
 # SpatialContext
 Master's Thesis: "Encoding Spatial Context in Local Image Descriptors"
 
+#### Code coming soon!
+
 ### Cite As
 ```
 @MastersThesis{Dushyant:Thesis:2016,
