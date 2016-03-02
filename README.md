@@ -1,7 +1,7 @@
 # SpatialContext
 Master's Thesis: "Encoding Spatial Context in Local Image Descriptors"
 
-## Bibtex Entry
+### Cite As
 ```
 @MastersThesis{Dushyant:Thesis:2016,
 author    =     {Dushyant Mehta},
